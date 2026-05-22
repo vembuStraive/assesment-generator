@@ -1,0 +1,5473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Chapter 11 Writing and Completing Reports and Proposals</text>
+
+    </category>
+  </question>
+
+<!-- question: 525345  -->
+  <question type="essay">
+    <name>
+      <text>Question 108</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_108-->Using ________ is a great way for teams and other groups to collaborate on writing projects, from brief articles to long reports and reference works. This method of collaboration does not require much technical expertise and provides the opportunity to post new or revised material without prior approval.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>wikis</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525346  -->
+  <question type="essay">
+    <name>
+      <text>Question 109</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_109-->Bart is relatively new to wikis and needs to practise his writing and editing skills. He should use the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>sandbox</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525347  -->
+  <question type="essay">
+    <name>
+      <text>Question 110</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_110-->If a team uses wikis to collaborate on a report, the editing and upgrading of information should be done by the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>collaborating members</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525348  -->
+  <question type="essay">
+    <name>
+      <text>Question 111</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_111-->Generally speaking, in a given amount of time, well-designed images can convey much more information than ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>textual messages</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525349  -->
+  <question type="essay">
+    <name>
+      <text>Question 112</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_112-->Using pictures is an effective way to communicate with ________ audiences.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>multilingual</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525350  -->
+  <question type="essay">
+    <name>
+      <text>Question 113</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_113-->A ________ illustrates trends over time or plots the relationship of two variables. For example, the vertical, or y, axis shows the amount, and the horizontal, or x, axis shows the time or other quantity against which the amount is being measured.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>line chart</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525351  -->
+  <question type="essay">
+    <name>
+      <text>Question 114</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_114-->Pamela is asked to use a data visualization tool and show the relative frequency of the 50 most-used terms in survey responses. This information is to be posted on the company website. For this Pamela should use ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>tag clouds</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525352  -->
+  <question type="essay">
+    <name>
+      <text>Question 115</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_115-->Robert has created a visually charged report and uploaded it on the company website. His manager has commended his efforts and asked him to include certain details that would help readers "decode" the visual by explaining what various colours, symbols, or other design choices mean. So Robert needs to include a ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>legend</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525353  -->
+  <question type="essay">
+    <name>
+      <text>Question 116</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_116-->When you're designing graphics for your documents, limit the number of colours and design elements and take care to avoid ________, decorative elements that clutter documents without adding any relevant information.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>chartjunk</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525354  -->
+  <question type="essay">
+    <name>
+      <text>Question 117</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_117-->Data visualization is an important tool for companies using ________ because it helps users experiment with data sets and discover new relationships.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>big data</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525355  -->
+  <question type="essay">
+    <name>
+      <text>Question 118</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_118-->A ________ illustrates a sequence of events from start to finish; it is indispensable when illustrating processes, procedures, and sequential relationships.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>flowchart</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525356  -->
+  <question type="essay">
+    <name>
+      <text>Question 119</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_119-->________ is popular for personal photos, but many companies use this online photo-sharing service for business communication as well.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Instagram</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525357  -->
+  <question type="essay">
+    <name>
+      <text>Question 120</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_120-->When combined with databases and aerial or satellite photography in ________, maps become extremely powerful visual reporting tools.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>geographic information systems and/or GIS</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525358  -->
+  <question type="essay">
+    <name>
+      <text>Question 121</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_121-->What is formal and informal visual balance? If an organization is involved in advertising, publishing, and drug research, what kind of balance should they apply to their website and why? Readers have complained that the company's website does not really meet their needs and they need to dig for information. What changes should the organization focus on?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Visual balance can be either formal, in which the elements in the images are arranged symmetrically around a central point or axis, or informal, in which elements are not distributed evenly, but stronger and weaker elements are arranged in a way that achieves an overall effect of balance.<br>The company's website could include a combination of both balances, depending on what is typical and preferred in the industry. Informal balance is preferred in advertising and formal balance is preferred in websites for drug research and publishing.<br>The organization should focus on keeping their website updated regularly and removing outdated information. To make the website easily accessible to users, they should make it easily skimmable and include lists, informative headings, and helpful summaries. Online readers tend not to want to dig for buried information.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525359  -->
+  <question type="essay">
+    <name>
+      <text>Question 122</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Well-designed visual elements can enhance the communication power of textual messages and, in some instances, even replace textual messages. Discuss six principles of graphic design that can improve the quality of your visuals.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<ol><li>Consistency: Achieve visual parallelism through the consistent use of colour, shape, size, texture, position, scale, or typeface.</li><li>Contrast: To emphasize differences, depict items in contrasting colors, such as red and blue or black and white. To emphasize similarities, make color differences more subtle.</li><li>Balance: Visual balance can be either formal, in which the elements in the images are arranged symmetrically around a central point or axis, or informal, in which elements are not distributed evenly, but stronger and weaker elements are arranged in a way that achieves an overall effect of balance.</li><li>Emphasis: Audiences usually assume that the dominant element in a design is the most important, so make sure that the visually dominant element really does represent the most important information.</li><li>Convention: Visual communication is guided by generally accepted rules or conventions that dictate virtually every aspect of design. In any given culture, for example, certain colours and shapes have specific meanings.</li><li>Simplicity: Limit the number of colours and design elements and take care to avoid chartjunk-decorative elements that clutter documents without adding any relevant information.</li></ol>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525360  -->
+  <question type="essay">
+    <name>
+      <text>Question 123</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Tables are a very common means of providing information that would be tedious or even difficult to handle in the main text. Here is an example of a well presented table:<br><br>Sales revenues ($000) for WonderMart Foods, January - March, 2012</p><table border="1" cellspacing="0" cellpadding="3"><tbody><tr><td width="96">Category</td><td width="96">Northeast</td><td width="96">Northwest</td><td width="96">Southeast</td><td width="96">Southwest</td></tr><tr><td width="96">Bakery</td><td width="96">$100</td><td width="96">$125</td><td width="96">$140</td><td width="96">$*90</td></tr><tr><td width="96">Fresh Produce</td><td width="96">$250</td><td width="96">$340</td><td width="96">$345</td><td width="96">$200</td></tr><tr><td width="96">Canned Goods</td><td width="96">$100</td><td width="96">$145</td><td width="96">$155</td><td width="96">$200</td></tr><tr><td width="96">Frozen Foods</td><td width="96">$450</td><td width="96">$460</td><td width="96">$125</td><td width="96">$425</td></tr><tr><td width="96">Dry Goods</td><td width="96">$450</td><td width="96">$400</td><td width="96">$100</td><td width="96">$300</td></tr></tbody></table><p>Source: WonderMart Foods, Financial Accounting Office, Monthly Statements<br>*NB Bakery sales in Southwest store were lower than expected due to renovations.<br><br>Name at least five of the tips that make this table effective.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>(Answers will vary.) Inclusions consist of:</p><ul><li>Use common understandable units.</li><li>Express all items in a column with the same unit and round off for simplicity.</li><li>Label column headings clearly.</li><li>Separate rows and columns with a line or extra space.</li><li>Don't cram too much information into one table making it hard to read.</li><li>Document the source of the information.</li></ul>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525361  -->
+  <question type="essay">
+    <name>
+      <text>Question 124</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_124-->List and describe at least three of the primary types of visuals that can be used in presentations and the communication tasks they are best suited for.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Tables can be used to present detailed, specific information. A table is a systematic arrangement of data in columns and rows. Tables are ideal when your audience needs information that would be either difficult or tedious to handle in the main text of a presentation.<br>Line charts illustrate trends over time or plot the relationship of two variables.<br>Bar charts portray numbers with the height and length of its rectangular bars, which makes a series of numbers easy to grasp quickly.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525362  -->
+  <question type="essay">
+    <name>
+      <text>Question 125</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Discuss how you should integrate visuals within your text. Provide tips on using visuals.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<ul><li>Position your visuals so that your audience won't have to flip back and forth (in printed documents) or scroll (onscreen) between visuals and the text that discusses them.</li><li>Refer to visuals by number in the text of your report and help your readers understand the significance of visuals by referring to them before readers encounter them in the document or onscreen. For example, "See Table 1.0 for survey results."</li><li>Write effective titles, captions, and legends. A title provides a short description that identifies the content and purpose of the visual. A caption usually offers additional discussion of the visual's content. A legend helps readers "decode" the visual by explaining what various colours, symbols, or other design choices mean. Make sure your visual and accompanying text are large enough to see easily, both online and in print.</li><li>Review visuals carefully for accuracy. Check for mistakes such as typographical errors, inconsistent colour treatment, confusing or undocumented symbols, and misaligned elements. Make sure that your computer hasn't done something unexpected, such as arranging chart bars in a different order or plotting line charts in unusual colours. If you use your own visual, such as a photograph, you don't need to cite it, or you could state that the source is primary. If you borrow the image, you need to reference the source. If you made changes to the image, state that it is modified from the original. Even if you borrow the data and make your own visual, you should state the source of data.</li><li>Make sure visuals are honest-that they don't intentionally or unintentionally distort the truth.</li><li>To avoid ethical lapses in visuals, consider all possible interpretations, provide enough background information for readers to interpret the visuals correctly, and don't hide or minimize visual information that readers need in order to make informed judgments.</li></ul>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525363  -->
+  <question type="essay">
+    <name>
+      <text>Question 126</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_126-->Discuss how you should proofread visuals in order to avoid errors and maintain ethical standards.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Review your visuals carefully for accuracy. Check for mistakes such as typographical errors, inconsistent colour treatment, confusing or unexplained symbols, and misaligned elements. Make sure that your software hasn't done something unexpected, such as arranging chart bars in an order you don't want or plotting line charts in unusual colours.<br>Make sure your visuals are properly documented by citing sources. Most important, make sure your visuals are honest-that they don't intentionally or unintentionally distort the truth. If you're designing visuals for mobile devices, be aware that the constraints of small screens are even more acute with visuals than they are with text. Preparing visual content for mobile users takes careful planning and the use of display tools designed for mobile devices. With screen space at a premium, think carefully about audience members' needs, including the circumstances in which they'll be using their devices, so you can prioritize and sequence the delivery of information.<br>Also consider the ethical implications of your visuals. Visuals are easy to misuse, intentionally or unintentionally. To avoid ethical lapses in your visuals, consider all possible interpretations, provide enough background information for readers to interpret your visuals correctly, and don't hide or minimize visual information that readers need in order to make informed judgments.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525373  -->
+  <question type="essay">
+    <name>
+      <text>Question 136</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_136-->Adding a ________ dimension to documents promises to make communication challenges much easier.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>third</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525374  -->
+  <question type="essay">
+    <name>
+      <text>Question 137</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_137-->Most printed formal reports consist of these three parts: ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>prefatory, text, and supplementary</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525375  -->
+  <question type="essay">
+    <name>
+      <text>Question 138</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_138-->Lisa Moreno has created an extensive report about travel expense trends at the optical firm Eurovison. She has included the list of secondary sources that she has consulted in the supplementary part of the report. This part of the supplement is known as the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>bibliography</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525376  -->
+  <question type="essay">
+    <name>
+      <text>Question 139</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_139-->Summarize the four tasks involved in completing business reports and proposals.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[When you have finished your first draft you need to perform four tasks to complete your document: revise, produce, proofread, and distribute.<br>The revision process is essentially the same for reports as for other business messages, although it may take considerably longer, depending on the length of your document.<br>Evaluate your organization, style, and tone to make sure that your content is clear, logical, and reader oriented. Then work to improve the report's readability by varying sentence length, keeping paragraphs short, using lists and bullets, and adding helpful headings and subheadings.<br>After assembling your report or proposal in its final form, review it thoroughly one last time, looking for inconsistencies, errors, and missing components. Don't forget to proof your visuals and make sure they are positioned correctly. For online reports, make sure all links work as expected and all necessary files are active and available.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525377  -->
+  <question type="essay">
+    <name>
+      <text>Question 140</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_140-->Describe the options for distributing reports and proposals, addressing both physical and digital distribution.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[For physical distribution of important printed reports or proposals, consider spending the extra money for a professional courier or package delivery service. Doing so can help you stand out in a crowd, and it lets you verify receipt. Alternatively, if you've prepared the document for a single person or small group in your office or the local area, delivering it in person will give you the chance to personally "introduce" the report and remind readers why they're receiving it.<br>For digital distribution, ask your readers what format they would like to receive the report in. The two most common formats are Microsoft Word documents and PDF files, but, depending on the circumstances, a different format might be more useful. With PDF files, you can select various security settings that restrict who can open, edit, or print the document.<br>If your company or client expects you to distribute your reports via cloud storage, a content management system, a shared workspace, or some other online location, double-check that you have uploaded the correct file(s) to the correct location. Verify the onscreen display of your reports after posting them, making sure graphics, charts, links, and other elements are in place and operational.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525378  -->
+  <question type="essay">
+    <name>
+      <text>Question 141</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>List and briefly describe the four elements that appear before a formal proposal's introduction and the two items that may appear afterward.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Prefatory Elements (before the introduction)</p><ul><li>Cover, title fly, title page. The uses are the same as with reports; be sure to follow any instructions in the RFP, if relevant.</li><li>Copy of or reference to the RFP. Instead of a letter of authorization, a solicited proposal should follow the instructions in the RFP. Some will instruct you to include the entire RFP in your proposal; others may want you to simply identify it by a name and tracking number.</li><li>Synopsis or executive summary. These components are less common in formal proposals than in reports. However, a brief overview of a solicited proposal's key points provides a succinct guide to the content.</li><li>Letter of transmittal. If the proposal is solicited, treat the transmittal letter as a positive message, highlighting those aspects of your proposal that may give you a competitive advantage. If the proposal is unsolicited, the transmittal letter should follow the advice for persuasive messages (refer to Chapter 9)-the letter must persuade the reader that you have something worthwhile to offer that justifies reading the proposal.<br>Supplementary Elements (after the close)</li><li>Appendices. Same uses as with reports; be sure to follow any instructions in the RFP, if relevant.</li><li>Résumés of key players. For external proposals, résumés can convince readers that you have the talent to achieve the proposal's objectives.</li></ul>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525379  -->
+  <question type="essay">
+    <name>
+      <text>Question 142</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>List and briefly describe the eleven elements required for a formal business report. There are eight standard prefatory elements that appear before the introduction; there are three supplementary elements that appear after the conclusion.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Prefatory Elements (before the introduction)</p><ul><li>Cover. Include a concise title that gives readers the information they need to grasp the purpose and scope of the report. For a formal printed report, choose heavy, high-quality <i>cover stock</i>.</li><li>Title fly. Some formal reports open with a plain sheet of paper that has only the title of the report on it, although this is certainly not necessary.</li><li>Title page. Typically includes the report title, name(s) and title(s) of the writer(s), and date of submission; this information can be put on the cover instead.</li><li>Letter of authorization. If you received written authorization to prepare the report, you may want to include that letter or memo in your report.</li><li>Letter of transmittal. "Cover letter" that introduces the report and can include scope, methods, limitations, highlights of the report; offers to provide follow-up information or assistance; and acknowledges help received while preparing the report.</li><li>Table of contents. List all section headings and major subheadings to show the location and hierarchy of the information in the report.</li><li>List of illustrations. Consider including this list if the illustrations are particularly important and you want to call attention to them.</li><li>Synopsis or executive summary. Refer to the text for further discussion.</li></ul>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525380  -->
+  <question type="essay">
+    <name>
+      <text>Question 143</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Discuss when and why you might consider three-dimensional communication in business and provide an example.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Answers will vary. Any example listed below is acceptable.<br>When it comes to descriptive writing, one of the toughest challenges is describing three-dimensional objects or physical spaces. For example, if you need to write training documents or marketing materials for a complicated product or system, you will likely need to describe its shape, function, operation, assembly, or some other aspect. Imagine using only words to describe a car engine or a metal lathe in enough detail that someone could repair or use it. Illustrations, photographs, and videos can be helpful, but even the best of these are constrained by the limitations of the two-dimensional page or screen.<br><br>Adding the third dimension promises to make these communication challenges much easier. What if you could send your readers a computer file that they could virtually explore in 3D? They could zoom in and out to see the big picture and small details and even travel inside the 3D model to see how it is laid out internally. Readily available software, such as</p>
+<p>Trimble's SketchUp (free at <a href="http://www.sketchup.com" target="_blank">www.sketchup.com</a>) makes this easy to do now.<br>
+3D printing promises to be the next step. As the price of 3D printers continues to drop, the number of businesses and consumers that have them continues to grow. Instead of describing a design you've just completed for a client, you could simply email a digital file that the recipient can use to print the object on-site and inspect in person. 3D sketching is another intriguing alternative. Pens that write in thin lines of plastic are widely available and can be used to sketch ideas as they occur to you.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525282  -->
+  <question type="essay">
+    <name>
+      <text>Question 45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_045-->Reports and proposals can put heavy demands on the ________, so the "you" attitude is especially important with these long messages.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>readers</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525283  -->
+  <question type="essay">
+    <name>
+      <text>Question 46</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_046-->In a report, discussing factors beyond your control that affect report quality is called ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>stating limitations</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525284  -->
+  <question type="essay">
+    <name>
+      <text>Question 47</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_047-->A work plan<b>, </b>which describes how you'll accomplish what must be done, states when work will begin, how it will be divided into stages, when you'll finish, and whether follow-up will be needed. This is usually included in the ________ of proposals.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>body</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525285  -->
+  <question type="essay">
+    <name>
+      <text>Question 48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_048-->In the body of her proposal, Ruth is describing her organization's experience, personnel, and facilities and relating them to readers' needs. She is also including a list of client references. This statement is known as the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>statement of qualifications</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525286  -->
+  <question type="essay">
+    <name>
+      <text>Question 49</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_049-->Review of arguments, reader benefits and the merits of your approach are generally included in the ________ of the proposal.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>close</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525287  -->
+  <question type="essay">
+    <name>
+      <text>Question 50</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_050-->Informal elements such as ________ tend to translate poorly from one culture to another.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>humour</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525288  -->
+  <question type="essay">
+    <name>
+      <text>Question 51</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_051-->Danielle is preparing a report and needs to present, analyze, and interpret the information she gathered during her investigation of the subject matter. She should include this information in the ________ of her report.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>body</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525289  -->
+  <question type="essay">
+    <name>
+      <text>Question 52</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_052-->The ________ section of a report brings all the action items together in one place.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>close</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525290  -->
+  <question type="essay">
+    <name>
+      <text>Question 53</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_053-->The one last place in a report to make your message strong, clear, and compelling is the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>close</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525291  -->
+  <question type="essay">
+    <name>
+      <text>Question 54</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_054-->Every business report that Sam creates puts his credibility and career advancement on the line. In his reports, he needs to present all sides of the issue fairly and equitably and include all the essential information, even if some of the information doesn't support his line of reasoning. By doing this he is making sure his content is ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>balanced</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525292  -->
+  <question type="essay">
+    <name>
+      <text>Question 55</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_055-->If readers suspect that your information is shaky, they'll start to view all your work with skepticism. This suspicion and the resultant lack of credibility is most likely because your report is ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>inaccurate</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525293  -->
+  <question type="essay">
+    <name>
+      <text>Question 56</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_056-->The introduction puts the report in context for the reader. It establishes the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>tone</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525294  -->
+  <question type="essay">
+    <name>
+      <text>Question 57</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_057-->Katerina is aware that the introduction for a report depends on the nature and length of the report, the circumstances under which she is writing it, and her relationship with the audience. If she is trying to determine what is and what isn't covered in the report, she is ascertaining the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>scope</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525295  -->
+  <question type="essay">
+    <name>
+      <text>Question 58</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_058-->When a writer is ascertaining the factors and historical conditions that led up to the report, she or he is determining the ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>background</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525296  -->
+  <question type="essay">
+    <name>
+      <text>Question 59</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_059-->The ________ of the report usually includes additional information or less important details.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>appendix</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525297  -->
+  <question type="essay">
+    <name>
+      <text>Question 60</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_060-->Proposals should be approached the same way as ________ messages.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>persuasive</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525298  -->
+  <question type="essay">
+    <name>
+      <text>Question 61</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_061-->Business proposals need to provide more than just attractive ideas-readers look for evidence of ________ solutions.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>achievable</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525299  -->
+  <question type="essay">
+    <name>
+      <text>Question 62</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_062-->Readers will prejudge the quality of your products, services, or capabilities by the ________ of the proposal you submit.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>quality</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525300  -->
+  <question type="essay">
+    <name>
+      <text>Question 63</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_063-->Readers should be able to follow the structure of your document and pick up the key points of your message from the ________ and ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>headings, subheadings</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525301  -->
+  <question type="essay">
+    <name>
+      <text>Question 64</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_064-->________ introduce important topics by helping readers get ready for new information.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Preview sections</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525302  -->
+  <question type="essay">
+    <name>
+      <text>Question 65</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_065-->________ come after a body of material and summarize the information for your readers, helping them absorb details.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Review sections</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525303  -->
+  <question type="essay">
+    <name>
+      <text>Question 66</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_066-->All headings within a subsection need to be ________ to create flow for the reader.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>parallel</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525304  -->
+  <question type="essay">
+    <name>
+      <text>Question 67</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_067-->List at least three strategies for increasing the formality of your writing in business reports.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>(Answers may vary.) To make your tone more formal, use the impersonal journalism style. Emphasize objectivity, avoid personal opinions, and build your argument on provable facts. Eliminate all personal pronouns (including I, you, we, us, and our). Avoid humour, and be careful with your use of similes, metaphors, and particularly colourful adjectives or adverbs. However, don't go so far as to make the writing monotonous.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525305  -->
+  <question type="essay">
+    <name>
+      <text>Question 68</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_068-->A person's ability to communicate effectively in the workplace is often tested when creating a written report. Julie knows that the first key to effective report writing is accuracy. What are the other four major considerations to include in her report content?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1. Ensure the information provided is complete. Include everything readers need to understand the proposal. 2. Ensure the report is balanced. Present all sides of the issue fairly and equitably. 3. Ensure your writing is clear and logical. 4. Often, reports contain a large amount of information. Document everything properly; cite every source used.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525306  -->
+  <question type="essay">
+    <name>
+      <text>Question 69</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_069-->Toon Interactive (TI) received a solicited formal proposal in response to their RFP from Data View Systems (DVS). After reviewing the proposal, TI decided to adopt the recommendations without hiring Data View Systems. What are the ethical implications of this scenario? Explain your answer.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>(Answers may vary.) DVS responded to TI's RFP with a clear understanding that if TI found its recommendations acceptable, DVS would be hired to implement them. By adopting DVS's recommendations and not hiring the company, TI is clearly in breach of trust and not following good business ethics.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525324  -->
+  <question type="essay">
+    <name>
+      <text>Question 87</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_087-->For website content, you should use the ________ style, in which you cover the most important information briefly at first and then gradually reveal successive layers of detail-letting readers choose to see those additional layers if they want to.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>inverted pyramid</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525325  -->
+  <question type="essay">
+    <name>
+      <text>Question 88</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Aside from the basic principles of report writing, list six other points that apply to online content development.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The additional points that apply to online content development are:</p><ul><li>Take special care to build trust with your target audiences.</li><li>Adapt your content for a global audience as much as possible.</li><li>Develop compelling, reader-oriented content. Wherever you can, use the inverted pyramid style, in which you cover the most important information briefly at first and then gradually reveal successive layers of detail-letting readers choose to see those additional layers if they want to.</li><li>Present your information in a concise, skimmable format.</li><li>Write effective headings and links that serve for both site navigation and content skimming.</li><li>Make your website a "living" document by adding fresh content and deleting content that is out of date or no longer relevant to your target audience.</li></ul>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525326  -->
+  <question type="essay">
+    <name>
+      <text>Question 89</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_089-->What is a wiki sandbox and how is it different from the talk page? If a wiki is constantly edited by the assigned members and most contributors have followed the stipulated guidelines, should the final report be approved by the team lead? Explain your answer.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The sandbox is a "safe," nonpublished section of the wikis where team members can practise editing and writing. A talk page is a commenting feature, where the content can be discussed. In spite of the stringent editing and the attention to guidelines followed by the contributors, the team lead should review the final product to see if the final product seamlessly integrates the contribution from multiple writers and serves the purpose for which it was created.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525327  -->
+  <question type="essay">
+    <name>
+      <text>Question 90</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What should you keep in mind to be a valuable wiki contributor?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<ul><li>Let go of traditional expectations of authorship, including individual recognition and control.</li><li>Encourage all team members to edit and improve each other's work.</li><li>Use page templates and other formatting options to ensure that your content matches the rest of the wiki.</li><li>Use the separate editing and discussion capabilities appropriately.</li><li>Take advantage of the sandbox, if available; this is a "safe," nonpublished section of the wiki where team members can practise editing and writing. Keep edits and comments separate by using the "talk page" to discuss content, rather than inserting comments directly into the text.</li></ul>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525238  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_001-->Artie is aware that the content and length of the close of a report depend primarily on his choice of the direct or indirect approach. If he is using the direct approach, in the close he should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>present his conclusions or recommendations, as presented in the body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>introduce new facts in his close, to maintain interest</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>end with a summary of key points listed in the order that they appear in the report body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>prompt others to action and designate tasks</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525247  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_010-->Every business report that Sam creates puts his credibility and career advancement on the line. In his reports he needs to present all sides of the issue fairly and equitably and include all the essential information, even if some of the information doesn't support his line of reasoning. By doing this he is making sure his content is &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>accurate</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>complete</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>balanced</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>clear and logical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525337  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 100</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_100-->Most printed formal reports consist of these parts: &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>prefatory, body, and supplementary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cover, text, and supplementary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cover, body, and supplementary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>prefatory, text, and supplementary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525248  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_011-->If readers suspect that your information is shaky, they'll start to view all your work with skepticism. This suspicion and the resultant lack of credibility is most likely because your report is &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>inaccurate</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>incomplete</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>unbalanced</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>illogical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525249  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_012-->The introduction puts the report in context for the reader. It establishes the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>tone</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>findings</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>details</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>opener</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525364  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 127</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_127-->If you include a synopsis or an executive summary in your report, &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>exclude the introduction to avoid redundancy</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>keep the introduction long</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>keep your introduction brief to avoid redundancy</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>the introduction is optional</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525365  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 128</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_128-->Moreno has created an extensive report about travel expense trends at the optical firm Eurovision. She has included the list of secondary sources that she has consulted in the supplementary part of the report. This part of the supplement is known as the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>appendix</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>source list</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>index</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>bibliography</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525366  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 129</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_129-->Veronica has to respond to an RFP with a proposal. In her proposal, she needs to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>follow the instructions in the RFP</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>always include the RFP in her proposal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>just identify the RFP by name</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>only mention the tracking number</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525250  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_013-->Karen is aware that the introduction for a report depends on the nature and length of the report, the circumstances under which she is writing it, and her relationship with the audience. If she is trying to determine what is and what isn't covered in the report, she is ascertaining &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>authorization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>purpose</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>scope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>background</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525367  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 130</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_130-->To allow you to control how your document is displayed on your audience's computer, deliver the document in &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>printable document format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>PDF format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>word processor format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>any visual media format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525368  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 131</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_131-->A longer report usually contains a fully developed "mini" version of the report for readers who lack the time to read the entire document. This is called a(n) &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>complete abstract</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>brief synopsis</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>executive summary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>report outline</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525369  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 132</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_132-->Some formal reports open with a plain sheet of paper that has only the title of the report on it. What is this called?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Cover</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Letter of transmittal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Title page</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Title fly</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525370  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 133</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_133-->At the end of a report, what document lists names, places, and subjects mentioned in the report, along with the pages on which they occur?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Table of contents</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Index</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Bibliography</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Appendix</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525251  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_014-->When a writer is ascertaining the factors and historical conditions that led up to the report, she/he is determining the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>authorization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>purpose</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>scope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>background</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525252  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_015-->Juanita is preparing an analytical report-specifically a troubleshooting report-using the direct approach. Such straightforward reports generally need to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>state conclusions or recommendations in the conclusion</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>state conclusions or recommendations in the introduction</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>use the introduction of the report to provide evidence and support</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>reserve conclusions or recommendations for the body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525253  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_016-->Proposals should be approached the same way as &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>informational reports</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>analytical reports</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>troubleshooting reports</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>persuasive messages</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525254  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_017-->Sherin is responding to a request for proposal with specifications mentioned for technical support requirements. In her response, she &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>needs to follow the instructions in the RFP in every detail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>has latitude in the scope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>has latitude in the organization of the proposal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>can demonstrate her knowledge</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525255  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_018-->Business proposals need to provide more than just attractive ideas-readers look for evidence of &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>facts</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>achievable solutions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>persuasive messages</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>path-breaking ideas</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525256  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_019-->Readers will prejudge the quality of your products, services, or capabilities by the ________ proposal you submit.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>presentation of</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>attention to detail in</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>scope of</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>quality of</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525239  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_002-->A good proposal reflects &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>whether the writer has a clear idea of the project being proposed</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>upon itself to see what else is missing</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>the reader's point of view</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>what non-technical content can enhance the document</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525257  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_020-->In an unsolicited proposal, if you mention the "delimitations," then you are giving the ________ or the boundaries of the proposal.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>scope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>outline</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>solution</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>organization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525258  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_021-->The introduction of a proposal describes the problem you intend to solve or the opportunity you want to pursue, along with your suggested solution. However, proposal introductions can vary depending on whether the proposal is internal or external, direct or indirect, and, most obviously, when it is solicited or unsolicited. Which of the following proposal introductions would strengthen the argument that a solicited proposal should be direct in order to garner interest?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>If you are an entrepreneur based out of your garage, or a work-from-home mother, a good home office will give you the necessary edge to stay focused at your tasks. So, we at JWS Remodeling Solutions would be happy to convert your existing living room into a home office according to your specifications, in the shortest possible time.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>JWS Remodeling Solutions would be happy to convert your existing living room area into a home office according to the specifications mentioned in your request. As part of our early bird offer, you will receive a 10 percent discount on the quoted price. We can begin work on November 23 and we'll complete the project by December 15th. That is a week faster than requested.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>JWS Remodeling Solutions has been in the business of helping entrepreneurs create better work places for the past two years. We would be happy to convert your existing living room area into a home office, in the shortest possible time, thanks to the revolutionary technology of interlocking rivets. As a bonus, it also helps save space!</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>JWS Remodeling Solutions would be happy to convert your existing living room area into a home office. Our construction approach is unique. We provide a full staff of licensed tradespeople and schedule our projects in a manner that seamlessly links the different stages of the project.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525259  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_022-->Simon has to create a long formal proposal. However, he's aware that today's readers are pressed for time and need help finding what they're looking for. To help readers with their navigation needs, Simon should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>limit previews and reviews</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>create shorter paragraphs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>make good use of headings and links</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>put additional information in the appendix</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525260  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_023-->Readers should be able to follow the structure of your document and understand the key points of your message from the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>previews</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>subheadings</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>reviews</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>headings and subheadings</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525261  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_024-->A good introduction will &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>grab the reader's attention</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>transfer the RFP into an SOW</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ensure further proposals are pre-authorized</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>be a formal obligation to your firm</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525262  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_025-->When closing a proposal, summarize key selling points and &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>provide necessary additional information</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>restrict additional information to the appendix</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>benefits and restate your recommendations or conclusions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>restate the purpose of the proposal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525263  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_026-->________ introduce(s) important topics by helping readers get ready for new information.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>The preface</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The introduction</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Transitions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Preview sections</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525264  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_027-->________ come after a body of material and summarize the information for your readers, helping them absorb details.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Review sections</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Footnotes</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Preview sections</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Callouts</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525265  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_028-->In a report, discussing factors beyond your control that affect report quality is called &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>an excuse for poor research</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>stating the problem/purpose</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>stating the scope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>stating limitations</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525266  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_029-->In unsolicited proposals, convincing readers that a problem or an opportunity exists is considered the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>scope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>background or statement of the problem</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>solution</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>report organization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525240  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_003-->Reports and proposals can put heavy demands on the ________, so the "you" attitude is especially important with these long messages.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>writers</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>readers</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>sources</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>organization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525267  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_030-->A work plan<b>, </b>which describes how you'll accomplish what must be done, states when work will begin, how it will be divided into stages, when you'll finish, and whether follow-up will be needed. This is usually included in the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>introduction of proposals</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>body of reports</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>body of proposals</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>close of reports</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525268  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_031-->In the body of her proposal, Ruth is describing her organization's experience, personnel, and facilities, and relating them to readers' needs. She is also including a list of client references. This statement is known as the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>facts and evidence to support her conclusions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>work plan</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>statement of qualifications</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>benchmarks</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525269  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_032-->Review of arguments, reader benefits, and the merits of your approach are generally included in the ________ of the proposal.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>introduction</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>body and close</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>close</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525270  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_033-->Look for ways to utilize technology to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>enrich</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>create reader-friendly text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>organize storage of boilerplate text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>systematize</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525271  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_034-->Meredith is creating a series of related reports. To help her she has decided to use &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>electronic forms</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>report-writing software</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>themes</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>templates</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525272  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_035-->Using Adobe Acrobat or similar products, you can quickly convert reports and proposals to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>publisher document format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>proposal document format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>printable document format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>portable document format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525241  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_004-->Informal elements such as ________ tend to translate poorly from one culture to another.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>monotonous writing</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>impersonal journalism</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>humour</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>attire</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525242  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_005-->Communicating with people in other cultures often calls for more formality in reports, both to respect cultural preferences and &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>avoid bias</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>encourage free exchange of ideas</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>avoid misdirection</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>reduce the risk of miscommunication</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525243  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_006-->A more formal writing style &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>helps keep communication clear and error-free</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>can be an immediate turn-off for an audience</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>uses the impersonal journalism style</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>needs to be interspersed with humour, to break the monotony</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525244  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_007-->Naomi is preparing a report and needs to present, analyze, and interpret the information she gathered during her investigation of the subject matter. She should include this information in the ________ of her report.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>introduction</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>opening</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>close</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525307  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 70</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_070-->Proposal-writing software can automatically personalize proposals, ensure proper structure, and &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>create online connections to update information automatically</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>organize storage of all your boilerplate text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>scan RFPs to identify questions and requirements but cannot fill in potential answers from a centralized knowledge base</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>replace the need for human input</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525308  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 71</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_071-->Adapting online content for a global audience is the ideal, but it is expensive. Some companies deal with this issue by &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>localizing the homepage of a website but keeping the more detailed content in its original language</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>avoiding reader-oriented content</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>localizing the entire website and charging for access</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>providing more detail than may be needed</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525309  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 72</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_072-->Most online readers won't dig for buried information. If they can't find the right information quickly, they will move on to another page or site. To avoid this, online content developers should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>prevent readers from skimming to maintain an effective website</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cover the most important information briefly at first and then gradually reveal successive layers of detail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>avoid lists and summaries</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>present information in a concise, skimmable format</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525310  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 73</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_073-->Erin has been asked to maintain a website. Therefore, she needs to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>use the inverted pyramid style</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>maintain outdated information on the website in chronological order</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>keep adding fresh content and deleting content that is out of date or no longer relevant to the organization's target audience</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>write effective headings and links that serve for both site navigation and content skimming</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525311  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 74</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_074-->Amy is aware of the benefits of wikis and finds them compelling, but she is concerned that &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>they do not provide the opportunity to post new or revised material without prior approval</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>the workflow is tightly controlled</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>they are not multimedia compliant</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>they require a unique approach to writing</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525312  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_075-->To help ensure that your content fits the same style as the rest of the wiki, use &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>the sandbox</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>the safebox</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>page templates and other formatting options</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>common editor functions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525313  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 76</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_076-->Bart is relatively new to wikis and needs to practise their writing and editing skills. They should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>write and edit content on a notepad before loading it to the wiki</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>use the sandbox</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>use the talk page</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>use the safebox</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525314  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 77</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_077-->If you are creating a new wiki, think through your long-term purpose carefully because &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>wikis cannot be created for a one-time project, like creating reports</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>modification of wikis is unrestricted; anyone can make changes</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>you need to set what rules and guidelines you will establish to guide the growth of the wiki.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>wikis don't need any security measures, since it is accessible by anyone.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525315  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 78</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_078-->If a team uses wikis to collaborate on a report, the editing and upgrading of information should be done by &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>anyone in the organization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>the collaborating members</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>only the manager of the team</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>professional website developers</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525316  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 79</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_079-->Sayara has some concerns about the report loaded by Keith. She doesn't agree with the published content and plans to revise it. Sayara &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>can go ahead and edit the content</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>should have a verbal discussion with her teammates and then edit the content</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>is not authorized to edit the content without Keith's approval</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>can use the wiki's discussion facility to share her concerns with other contributors</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525245  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_008-->Which section of a report brings all the action items together in one place?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Introduction</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Opening</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Close</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525317  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 80</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_080-->Using ________ is a great way for teams and other groups to collaborate on writing projects, from brief articles to long reports and reference works. This method of collaboration does not require much technical expertise and provides the opportunity to post new or revised material without prior approval.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>wikis</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>electronic documents</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>embedded files</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>multimedia</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525246  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_009-->The one last place in a report to make your message strong, clear, and compelling is the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>opening</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>close</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>opening and body</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525328  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 91</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_091-->The ________ principle of graphic design can be either formal, in which the elements in the images are arranged symmetrically around a central point or axis, or informal, in which elements are not distributed evenly.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>contrast</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>balance</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>emphasis</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>convention</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525329  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 92</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_092-->Generally speaking, in a given amount of time, well-designed visual images can convey much more information than &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>textual messages</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>simple images</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>audio messages</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>audio-visual messages</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525330  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 93</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_093-->Using pictures is also an effective way to communicate with ________ audiences.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>literate</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>multilingual</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>verbally challenged</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>demanding</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525331  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 94</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_094-->Liam is appreciated for his visual literacy by his manager. Given the importance of visuals in today's business environment, it has become a key business skill. Liam is appreciated because of his ability to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>manipulate visual media</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>take pictures</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>create effective images</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>create effective images and interpret visual messages correctly</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525332  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 95</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_095-->Carlo has been asked to create an informal balance in the visual aspects of their organization's website. The aim is to make the website look dynamic and engaging. Therefore, Carlo should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>depict items in contrasting colours, such as red and blue or black and white</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>emphasize similarities and make colour differences more subtle</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>visual unparallelism</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>distribute elements evenly, but still ensure there is a balance maintained overall</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525333  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 96</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_096-->Amanpreet has been asked to reduce chartjunk on the company website so that it looks more organized and less cluttered. Amanpreet should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>adapt a formal visual balance and arrange items symmetrically</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>adapt an informal visual balance and arrange items unevenly</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>remove the decorative elements that are irrelevant</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>only use 3-dimensional bar charts to maintain consistency</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525334  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 97</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_097-->Natalia has been asked to create a few tables for the forthcoming team performance report that will be distributed online on the company's intranet. She knows tables are ideal when the audience needs information that would be either difficult or tedious to handle in the main text of a report. While creating tables for the online environment, she should make sure that &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>it is simpler than if it were prepared for a traditional print report</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>all the extensive data is included in the relevant tables</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>the source for the data is mentioned in the appendix</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>she uses only line charts to maintain consistency</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525335  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 98</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_098-->Timothy needs to present some complex concepts to company executives that involve processes and transformations in action. He tried doing this using charts and textual data, but his manager feels another medium would be more effective for his needs. Timothy should use &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>line charts to show the stages of the process</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>a flowchart to explain the process</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>animation or videos to show the processes and transformations in action</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>photographs to give a realistic picture of the elements of the process</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525336  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 99</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_099-->Robert has created a visually charged report and uploaded it on the company website. His manager has commended his efforts and asked him to include certain details that would help readers "decode" the visual by explaining what various colors, symbols, or other design choices mean. So Robert needs to include &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>an instruction manual</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>a legend</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>a title</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>a caption</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525338  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 101</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_101-->WordPress blogging software contributors are discouraged from adding new pages until the content is fairly complete and accurate.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525339  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 102</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_102-->A pie chart, also called an area chart, is a form of line chart that shows a cumulative effect; all the lines add up to the top line, which represents the total.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525340  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 103</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_103-->Timelines and Gantt charts are specialized bar charts.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525341  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 104</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_104-->Bar charts are used frequently in business reports, but in many instances they are not as helpful to readers as pie charts and other types of visuals would be.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525342  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 105</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_105-->Use flowcharts for visual appeal and to show exact appearances.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525343  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 106</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_106-->For a visual, document the source of data using the same format as a text footnote.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525344  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 107</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_107-->Help your readers understand the significance of visuals by referring to them after readers encounter them in the document or onscreen.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525371  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 134</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_134-->Not all formal reports have a title fly because it is optional.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525372  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 135</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_135-->The contents page lists report parts and text headings to indicate the location and hierarchy of the information in the report. But list only the prefatory parts that come after the contents page and not the supplementary parts.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525273  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_036-->The "you" attitude is especially important with long or complex reports because they demand a lot from readers.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525274  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_037-->All business reports require a formal tone due to the nature and purpose of the document.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525275  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_038-->In business reports, you should minimize your use of similes, metaphors, and particularly colourful adjectives or adverbs.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525276  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_039-->Elements of authorization, such as <i>when</i>, <i>how</i>, and <i>by whom the report was authorized</i>, <i>who wrote it</i>, and <i>when it was submitted</i> generally can be part of the body of the report.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525277  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_040-->If a report calls for follow-up action of any kind, clearly identify who is going to do what, or what should happen next.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525278  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_041-->In an unsolicited proposal, your introduction needs to convince readers that an opportunity exists, but never mention a problem.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525279  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_042-->In proposals and reports, the scope is usually described in the body of the document.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525280  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_043-->The documents that contain the review of reader benefits and review the merits of your approach contain the same information.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525281  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_044-->PDF files have long been considered safer than word processor files and are not capable of being used to transmit computer viruses.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525318  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 81</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_081-->Online content does not require you to take special care to build trust with your audience because of the anonymity of the Internet.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525319  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 82</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_082-->Writers in a wiki environment need to let go of traditional expectations of authorship, including individual recognition and control.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525320  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 83</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_083-->Never use only one second-level heading under a first-level heading.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525321  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 84</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_084-->In the inverted pyramid style you cover the most important information briefly at first and then gradually reveal successive layers of detail.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525322  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 85</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_085-->Website content needs to be authoritative.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525323  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 86</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_086-->In website design, use the <i>inverted pyramid </i>style, in which you cover the most important information briefly at first and then gradually reveal successive layers of detail.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

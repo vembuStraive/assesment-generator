@@ -1,0 +1,25 @@
+#Bb PackageInfo Property File
+#Mon Nov 24 19:11:47 TLT 2025
+app.release.number=4000.4.0-rel.13+c42a533
+cx.config.course.id=Bovee_6ce
+cx.config.file.references=false
+cx.config.full.value=CxConfig{operation\=EXPORT, courseid\=Bovee_6ce, package\=/usr/local/bbcontent/vi/BB60792ca95d799/courses/1/Bovee_6ce/archive/ExportFile_Bovee_6ce_20251124071129.zip, logger\=CxLogger{logs\=[Log{name\=/usr/local/bbcontent/vi/BB60792ca95d799/courses/1/Bovee_6ce/archive/ExportFile_Bovee_6ce_20251124071129.txt, verbosity\=default}, Log{name\=/usr/local/bbcontent/vi/BB60792ca95d799/courses/1/Bovee_6ce/archive/ExportFile_Bovee_6ce_20251124071129_detailed.txt, verbosity\=debug}], logHooks\=[blackboard.apps.cx.CxQueuedOperation@2ab53224]}, resource_type_inclusions\=[], area_inclusions\=[SURVEY, POOL, ASSESSMENT], area_exclusions\=[], object_inclusions\={}, object_exclusions\={}, features\={BypassDiskQuotaCheck\=false, CreateOrg\=false, ArchiveForUltraRestore\=false, AlternateAssessmentCsLinks\=false, RevertFromUltraRestore\=false, ImportCourseStructure\=false, Bb5LinkToBrokenImageFix\=true}, strHostName\=learningmate-test.blackboard.com, isCommandLineRequest\=false, isCourseConversion\=false, eventHandlers\=[], primaryNode\=null, nodes\=[], title\=null, packageVersion\=null, archiveCSItems\=true, archiveECSItems\=false, archiveOnlyReferencedPpg\=false, commonCartridge\=false, qti21Package\=false, createChildFolder\=false, csDir\=, excludedCsFolderIds\=null, homeDir\=, includeGradeHistoryInArchive\=false, isExportPackage\=false, logDetailRubricInfo\=false, taskId\=PkId{key\=_39659_1, dataType\=blackboard.platform.queue.data.QueueTask, container\=blackboard.persist.DatabaseContainer@25950bd3}, useDefaultLog\=true}
+cx.config.learn.installation.id=15652af4730e4b9ea1c6c25c4c5c6e06
+cx.config.learn.site.id=7c86f06e-898b-48da-b925-e3aea960294a
+cx.config.logs=[Log{name\=/usr/local/bbcontent/vi/BB60792ca95d799/courses/1/Bovee_6ce/archive/ExportFile_Bovee_6ce_20251124071129.txt, verbosity\=default}, Log{name\=/usr/local/bbcontent/vi/BB60792ca95d799/courses/1/Bovee_6ce/archive/ExportFile_Bovee_6ce_20251124071129_detailed.txt, verbosity\=debug}]
+cx.config.operation=blackboard.apps.cx.CxConfig$Operation\:EXPORT
+cx.config.package.identifier=b415524f59ab439bbc57cc7a9d6ccb8a
+cx.config.package.name=/usr/local/bbcontent/vi/BB60792ca95d799/courses/1/Bovee_6ce/archive/ExportFile_Bovee_6ce_20251124071129.zip
+cx.package.info.version=6.0
+db.driver.name=PostgreSQL JDBC Driver
+db.driver.version=42.7.3
+db.product.name=PostgreSQL
+db.product.version=16.8
+java.class.path=/usr/local/blackboard/apps/service-wrapper/lib/wrapper.jar\:/usr/lib/jvm/java-21-amazon-corretto/lib/tools.jar\:/usr/local/blackboard/apps/tomcat/lib/bb-tomcat-bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/tomcat-juli.jar
+java.default.locale=en
+java.home=/usr/lib/jvm/java-21-amazon-corretto.x86_64
+java.vendor=Amazon.com Inc.
+java.version=21.0.9
+os.arch=amd64
+os.name=Linux
+os.version=6.1.156-177.286.amzn2023.x86_64

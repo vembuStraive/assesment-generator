@@ -1,0 +1,5433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Chapter 13 Building Careers and Writing Résumés</text>
+
+    </category>
+  </question>
+
+<!-- question: 525667  -->
+  <question type="essay">
+    <name>
+      <text>Question 123</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_123-->If you apply online it is still a good idea to have a ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[paper r&eacute;sum&eacute;]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525668  -->
+  <question type="essay">
+    <name>
+      <text>Question 124</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_124-->Depending on the companies you apply to, you might want to produce your r&eacute;sum&eacute; in as many as ________ formats.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>six</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525669  -->
+  <question type="essay">
+    <name>
+      <text>Question 125</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_125-->A ________ version of your r&eacute;sum&eacute; is simply a computer file without any of the formatting that you typically apply using a word processor.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>scannable</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525670  -->
+  <question type="essay">
+    <name>
+      <text>Question 126</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_126-->A variety of terms are used to describe ________, including personal webpage, e-portfolio, social media r&eacute;sum&eacute;, and multimedia r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[online r&eacute;sum&eacute;s]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525671  -->
+  <question type="essay">
+    <name>
+      <text>Question 127</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_127-->An ________ should complement a conventional r&eacute;sum&eacute;, not replace it. In addition, they require skills in graphical design.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>infographic</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525672  -->
+  <question type="essay">
+    <name>
+      <text>Question 128</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_128-->Before uploading your r&eacute;sum&eacute; to any site, learn about its ________ policies.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>confidentiality</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525673  -->
+  <question type="essay">
+    <name>
+      <text>Question 129</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_129-->A ________ file is a digital version of your r&eacute;sum&eacute; that has no font formatting, no bullet symbols, no colours, no lines or boxes, or other special formatting.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>plain-text or ASCII text file or text file</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525674  -->
+  <question type="essay">
+    <name>
+      <text>Question 130</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_130-->If most r&eacute;sum&eacute;s are about selling yourself for the ideal career opportunity, why should they not include any personal data? Why should employers not insist on a r&eacute;sum&eacute; with the applicant's picture on it but welcome video r&eacute;sum&eacute;s?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[(Answers may vary.) A candidate should be recruited when his or her qualifications and work-experience meet the needs of the position and the organization. However, the following factors are not suitable criteria for recruiting a candidate and result in employers facing a complaint of discriminatory hiring practices: physical characteristics, age, gender, marital status, sexual orientation, religious or political affiliations, race, national origin, salary history, reasons for leaving jobs, names of previous supervisors, names of references, Social Security number, or student ID number. <br>Employers should not insist on a r&eacute;sum&eacute; with the applicant's picture on it because it could amount to discrimination based on physical characteristics. The picture can also provide visual cues about age, ethnicity, and gender. Organizations are expected to evaluate candidates solely on the basis of their credentials. Video r&eacute;sum&eacute;s should only be considered as a supplement. To make the hiring process more transparent and faster, most organizations do not welcome video r&eacute;sum&eacute;s.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525675  -->
+  <question type="essay">
+    <name>
+      <text>Question 131</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_131-->Is the format of your r&eacute;sum&eacute; a criterion for an employer to judge your compatibility with their organization? Explain your answer. As a potential employer, what r&eacute;sum&eacute; formats would you encourage and why?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[(Answers may vary.) The format of a r&eacute;sum&eacute; is one of the criteria employers use to judge an applicant's compatibility with their organization. If the r&eacute;sum&eacute; is not in the format the employer specified-such as plain-text files, PDF files, or online r&eacute;sum&eacute;s-it might indicate the applicant's inability to follow instructions and preferences and might not even be considered. By insisting that a r&eacute;sum&eacute; be sent in a particular format, especially online, the employer might also be judging the applicant's knowledge of media and technology.<br>Students can choose from various r&eacute;sum&eacute; formats, such as PDF files, online r&eacute;sum&eacute;s, and traditional printed r&eacute;sum&eacute;s. They should explain the reasons for their choice, such as how nontraditional formats like online r&eacute;sum&eacute;s can be easily processed and are paperless.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525676  -->
+  <question type="essay">
+    <name>
+      <text>Question 132</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_132-->Describe the six most common formats in which you can produce a r&eacute;sum&eacute;. What are some other kinds of formats? When and how should they be used?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[A printed r&eacute;sum&eacute; should be brought to the interview, even if you applied online. The r&eacute;sum&eacute; can serve as a note-taking form or discussion guide, and it is tangible evidence of your attention to professionalism and detail. When printing a r&eacute;sum&eacute;, choose a heavier, higher-quality paper. White or slightly off-white is the best color choice. Avoid papers with borders or backgrounds.<br>A scannable r&eacute;sum&eacute; differs from the traditional format in two major ways: it should always include a keyword summary (employers search on these terms to find promising candidates), and it should be formatted in a simpler fashion that avoids underlining, special characters, and other elements that can confuse the scanning system.<br>A plain-text file (sometimes known as an ASCII text file) is an electronic version of your r&eacute;sum&eacute; that has no font formatting, no bullet symbols, no colours, no lines or boxes, or other formatting.<br>A Microsoft Word document preserves the design and layout of your r&eacute;sum&eacute; and saves you the trouble of creating a plain-text version.<br>Creating a PDF file is a simple procedure, but you need the right software. Adobe Acrobat (not the free Adobe Reader) is the best-known program, but many others are available, including some free versions.<br>Online r&eacute;sum&eacute;s provide the opportunity to expand on the information contained in your basic r&eacute;sum&eacute; with links to projects, publications, screencasts, online videos, course lists, social&nbsp; networking profiles, and other elements that give employers a more complete picture of you.<br>In addition to these six main formats, some applicants create PowerPoint presentations, videos, or infographics to supplement a conventional r&eacute;sum&eacute;. These formats should complement a conventional r&eacute;sum&eacute;, not replace it.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525684  -->
+  <question type="essay">
+    <name>
+      <text>Question 140</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_140-->________ is the most important website to incorporate into your job search.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>LinkedIn</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525685  -->
+  <question type="essay">
+    <name>
+      <text>Question 141</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Discuss nine tips for creating a successful LinkedIn profile.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<ol><li>Photo. Add a photo that says "professional" without being overly formal. You don't need to hire a professional photographer, but the photo needs to be clear and lit well enough so that your face isn't in shadow. Stand against a visually "quiet" background that won't distract viewers, dress appropriately for the jobs you are pursuing, and remember to smile. A "head and shoulders" photo is most common.</li><li>Headline. Write a headline that expresses who you are or aspire to be as a professional, such as "Data science major ready to make data come alive through leading-edge techniques in data mining, visualization, and AI." Include keywords that target employers are likely to be searching for. Like other text fields on LinkedIn, you have a limited number of characters to work with, so focus on your most valuable attributes.</li><li>Summary. Write a summary that captures where you are and where you are going. Imagine that you are talking to a hiring manager in a personal and conversational tone, telling the story of where you've been and where you would like to go-but expressed in terms of meeting an employer's business needs. Highlight your job experience, education, skills, accomplishments, target industry, and career direction. Unlike the introductory statement on your conventional résumé, which you can fine-tune for every job opportunity, your LinkedIn summary offers a more general picture of who you are as a professional. Be sure to work in as many of the keywords from your research as you can, while keeping the style natural. Employers can use a variety of search tools to find candidates, and they'll look for these keywords.</li><li>Experience. Fill out the experience section, using the material from your conventional résumé. Make sure the details of your employment match your résumé, as employers are likely to cross-check. However, you can expand beyond those basics, including linking to photos and videos of work-related accomplishments.</li><li>Recommendations. Ask for recommendations from people you know on LinkedIn. You may have a limited number of connections as you start out, but as your network expands you'll have more people to ask. A great way to get recommendations is to give them to the people in your network.</li><li>Featured skills. List your top skills and areas of expertise. As you expand your network, endorse the skills of people you know; many users will endorse your skills in return.</li><li>Education. Make sure your educational listing is complete and matches the information on your conventional résumé.</li><li>Accomplishments. LinkedIn offers a variety of categories that let you highlight academic achievements, special projects, publications, professional certifications, important coursework, honours, patents, and more. If you don't have an extensive work history, use this section to feature academic projects and other accomplishments that demonstrate your skills.</li><li>Volunteer experience and causes. Add volunteering activities and charitable organizations that you support.</li></ol>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525563  -->
+  <question type="essay">
+    <name>
+      <text>Question 19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_019-->Stay on top of ________ because you never know which avenue will provide a job opportunity.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>business news</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525564  -->
+  <question type="essay">
+    <name>
+      <text>Question 20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_020-->When it comes to finding the right job opportunities for you, the easiest ways are not always the most ________ ways.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>productive</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525565  -->
+  <question type="essay">
+    <name>
+      <text>Question 21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_021-->________ is a mutually beneficial activity, so look for opportunities that benefit you and your contacts.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Networking</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525566  -->
+  <question type="essay">
+    <name>
+      <text>Question 22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_022-->Explain the importance of networking as part of your career search, and describe how to find helpful networks.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Networking is the process of making informal connections with a broad sphere of mutually beneficial business contacts. Research suggests that it is currently the most common way that employees find jobs. Helpful networks are available in person and online. You can find them by reading news sites, blogs, and other online sources, by participating in student business organizations, and by visiting trade shows that cater to the industry you're interested in. Volunteering in social, civic, and religious organizations can also help you create a network for yourself.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525591  -->
+  <question type="essay">
+    <name>
+      <text>Question 47</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_047-->R&eacute;sum&eacute;s and ________ are essentially the same, although r&eacute;sum&eacute;s may be less detailed.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>curriculum vitae</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525592  -->
+  <question type="essay">
+    <name>
+      <text>Question 48</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_048-->The ________ r&eacute;sum&eacute; is the more traditional approach and generally favored by recruiters.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>chronological</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525593  -->
+  <question type="essay">
+    <name>
+      <text>Question 49</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_049-->A ________ r&eacute;sum&eacute; emphasizes your skills and capabilities, identifying employers and academic experience in subordinate sections.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>functional</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525594  -->
+  <question type="essay">
+    <name>
+      <text>Question 50</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_050-->In the experience section of your r&eacute;sum&eacute;, you begin with strong verbs and avoid using the word ________.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>I</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525595  -->
+  <question type="essay">
+    <name>
+      <text>Question 51</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_051-->You should ________ cover up a criminal record on your r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>never</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525596  -->
+  <question type="essay">
+    <name>
+      <text>Question 52</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_052-->If you don't have a lot of work history to show, consider a ________ r&eacute;sum&eacute; to highlight your skills while still providing a chronological history of your employment.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>combination</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525597  -->
+  <question type="essay">
+    <name>
+      <text>Question 53</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_053-->List and describe the three methods for organizing a r&eacute;sum&eacute; along with their advantages and disadvantages.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1. Chronological-lists your employment history starting with the most recent job first. Advantages include: employers are familiar with it, it highlights growth and career progression, and it emphasizes continuity and stability. Disadvantages: it draws attention to gaps in your employment history. 2. Functional-lists your skills and accomplishments. Advantages include: employers can quickly see what you can do, you can emphasize earlier job experience, and de-emphasize any lack of career progress or lengthy unemployment. Disadvantages: employers tend to assume that you are trying to hide something; it is harder for employers to quickly determine your employment history. 3. Combination-includes features of both chronological and functional approaches. Advantages include: you can highlight both your skills and your employment history. Disadvantages: employers are somewhat unfamiliar with it, it can be repetitious and longer than other formats.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525598  -->
+  <question type="essay">
+    <name>
+      <text>Question 54</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_054-->There are many considerations for the job seeker when thinking about preparing a r&eacute;sum&eacute;. Some of these include what type of r&eacute;sum&eacute; to prepare and how to handle the variety of unique circumstances that are present when dealing with different employers and positions. In this respect, why do most employers prefer chronological r&eacute;sum&eacute;s over functional r&eacute;sum&eacute;s? What kind of changes would you recommend that applicants make to their r&eacute;sum&eacute; if they are overqualified for the position they are applying for?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[The functional r&eacute;sum&eacute; can obscure the applicant's work history and that is why many employment professionals are suspicious of it. Chronological r&eacute;sum&eacute;s are easier to navigate and understand for employers.<br>Most organizations want to hire people who have the right qualifications, unless the applicant pool does not provide a quality hire. If one is an overqualified applicant, the applicant can still apply for the job because the person could be the right fit for the position. However, it is advisable to tone down one's r&eacute;sum&eacute;, focusing exclusively on the experience and skills that relate to the position. It would also help to highlight the applicant's knowledge of latest technology and processes that would be beneficial to the organization. Personal attributes such as leadership skills, organizational loyalty, and creativity could also be highlighted.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525599  -->
+  <question type="essay">
+    <name>
+      <text>Question 55</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_055-->If you were fired from your previous job because of discrimination by your employer, should you include that work experience in your r&eacute;sum&eacute;? Why or why not?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>(Answers may vary.) The inclusion of that work experience depends on its relevance. If it was short-term and not significant, it's better to omit it. However, if it's important, you can include it and explain the circumstances of your dismissal to prospective employers during the interview process. Address their concerns with evidence, focusing on how the skills and knowledge gained in that position would benefit the organization.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525600  -->
+  <question type="essay">
+    <name>
+      <text>Question 56</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Rewrite this résumé according to current guidelines for effective résumé writing. Assume the position being applied for is Marketing Analyst for a foreign electric car company entering the Canadian market. Feel free to create new facts to enhance the résumé's effectiveness.<br>Sharon Bueller<br>859 Marlo Avenue<br>Winnipeg, MB<br>(204) 555-6308<br>prettybueller@abcmail.com<br><br>PERSONAL: Married, in good health, 5'6", 155 lbs.; hobbies include cooking, music, and reading. <br>JOB OBJECTIVE: To obtain a responsible position in market analysis with a reputable company.<br><br>Education: MBA degree, University of Manitoba, 2001.<br>Graduated with a 3.0 average. Member of the varsity cheerleading squad. President of Helvetica League. Voted Miss Congeniality at the provincial exhibition.<br><br>WORK EXPERIENCE<br>McShear Aeronautics, 2004-present, marketing analyst<br>Responsible for promotional activities.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>(Answers may vary.) The general look of the résumé should be simple, clean, and professional. No personal details such as marital status and physical appearance should be mentioned. If career objective is to be mentioned, it should be worded in a way that relates the applicant's qualifications to the employer's needs. Achievements and skills that are irrelevant to the position should be excluded. Facts about skills and accomplishments are the most important information you can give a prospective employer, so quantify them whenever possible.</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525632  -->
+  <question type="essay">
+    <name>
+      <text>Question 88</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_088-->Write skills and accomplishments using ________ statements that show results.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>active</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525633  -->
+  <question type="essay">
+    <name>
+      <text>Question 89</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_089-->A ________ offers a brief recap of your career and is particularly useful for upper-level managers.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>career summary</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525634  -->
+  <question type="essay">
+    <name>
+      <text>Question 90</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_090-->Be sure to exclude any information that could encourage ________ such as family status or religion.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>discrimination</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525635  -->
+  <question type="essay">
+    <name>
+      <text>Question 91</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_091-->Including ________ as a section in your r&eacute;sum&eacute; can enhance the employer's understanding of how you would fit in the company. For instance, candidates applying to Mountain Equipment Co-op may want to list outdoor pursuits.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>interests</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525636  -->
+  <question type="essay">
+    <name>
+      <text>Question 92</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_092-->________ skills are the less-tangible, interpersonal side of things-including communication, teamwork, leadership, and conflict resolution.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Soft</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525637  -->
+  <question type="essay">
+    <name>
+      <text>Question 93</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_093-->Many experts suggest that you prepare a list of ________ but don't include them on your r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>references</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525638  -->
+  <question type="essay">
+    <name>
+      <text>Question 94</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_094-->With the rise of automated ________, matching your language to the employer's will help you get past the keyword filters these systems use to rank incoming r&eacute;sum&eacute;s.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>applicant tracking systems</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525639  -->
+  <question type="essay">
+    <name>
+      <text>Question 95</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_095-->Include relevant ________ in your introductory statement, work history, and education sections to increase the chances that your r&eacute;sum&eacute; will match the searches conducted by employers looking for requirements of a particular job.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>keywords</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525640  -->
+  <question type="essay">
+    <name>
+      <text>Question 96</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Change these statements into active statements that show results.</p><ol style="list-style-type: upper-alpha;"><li>Responsible for developing a new format for minutes of team meetings.</li><li>Assigned the organization of team building activities at team outings.</li></ol>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>The above statements as active statements would look something like:</p><ol style="list-style-type: upper-alpha;"><li>Developed a new format that organized the team meeting minutes in a way that helped track the status of tasks, flag significant tasks, and follow-up.</li><li>Helped employees build their organizational network by organizing events at team outings.</li></ol>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525641  -->
+  <question type="essay">
+    <name>
+      <text>Question 97</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_097-->Choose a position in any field that you could be potentially qualified for after your graduation and prepare a list of five keywords that should be included in the r&eacute;sum&eacute; when applying for this position.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[(Answers may vary.) R&eacute;sum&eacute;s should include keywords that are words and phrases a recruiter is most likely to search for. Identifying these keywords may require some research, but the key to this exercise is for students to anticipate the types of keywords that could be likely in the job description for their desired position, and keywords that could represent the employer's needs.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525642  -->
+  <question type="essay">
+    <name>
+      <text>Question 98</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_098-->Describe the main sections or elements included on most r&eacute;sum&eacute;s.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>1. Name and address-any information necessary to contact you including phone numbers, e-mail addresses, etc. 2. Career Objective-this section is optional. Including it allows you to clearly state your desired goal and to categorize yourself. 3. Education-give your educational background, degrees earned, where you attended school, the dates attended, and the skills and abilities that you've developed in your course work. 4. Work Experience, Skills, and Accomplishments-list your jobs in chronological order with the current one first. Give the name and location of the employer as well as your title. Describe your skills and accomplishments and quantify them whenever possible. 5. Activities and Achievements-list volunteer activities that demonstrate your leadership, organization, teamwork, etc. Explain how the skills learned there are related to the job you're applying for. Note any awards you've received. 6. Personal data-like Career Objective, this section is optional. Include information about your interests and hobbies only if they enhance the employer's understanding of why you would be the best candidate for the job.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525643  -->
+  <question type="essay">
+    <name>
+      <text>Question 99</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_099-->As someone who has just graduated, you may not have a clear career path when you enter the job market. How would your uncertainty affect the way your write your r&eacute;sum&eacute;? What is the purpose of the career objective section in a r&eacute;sum&eacute; and how does it serve the employer's needs?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[(Answers may vary.) There is definitely uncertainty in writing a r&eacute;sum&eacute; when one doesn't have a clear career path. But instead of focusing on the lack of experience, I would focus on my qualifications and the best way to present them. By being organized and starting early, I can definitely get an edge in the process. Thinking like an employer and explaining how my general potential can serve the needs of the company is how I would choose to "sell" myself. This way the uncertainty of being inexperienced can be turned into positive energy which would help me create a persuasive, professional, and effective r&eacute;sum&eacute;.<br>A career objective identifies either a specific job you want to land or a general career track you would like to pursue. It is essentially about fulfilling your desires, not about meeting the employer's needs. But if it is worded in a way that relates your qualifications to employer needs, then it can generate attention.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 525545  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_001-->Experienced recruiters will spend no more than ________ minutes deciding who they want to see for further prescreening.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>10</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>20</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>30</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525554  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_010-->When you are networking, don't overlook ________; you not only meet people but also demonstrate your ability to solve problems, manage projects, and lead others.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>your community centre</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>gaming sites</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>social networking sites</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>volunteering</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525644  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 100</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_100-->Producing and distributing a r&eacute;sum&eacute; used to be fairly straightforward; you printed it on quality paper and mailed or faxed it to employers. However, the advent of databases that let managers sort through incoming applications to find the most promising candidates, called ________, and social media has dramatically changed the nature of r&eacute;sum&eacute; production and distribution.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>applicant recruitment systems</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>quality tracking systems</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>auto-tracking systems</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>applicant tracking systems</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525645  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 101</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_101-->Rebecca is contemplating setting up an e-portfolio. Which of these media is suitable for her r&eacute;sum&eacute;?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Traditional paper</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Printed scannable r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Electronic plain-text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Video</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525646  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 102</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_102-->Avery has created a r&eacute;sum&eacute; that is simple, clean, and professional because she fears falling victim to the most common way to get into trouble with r&eacute;sum&eacute; design. The most common way to get in trouble in this regard is by &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>using more than one colour</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>using graphic design</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>being creative</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>going overboard with creativity</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525647  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 103</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_103-->Gerald has just prepared his r&eacute;sum&eacute; and is ready to mail the printed traditional r&eacute;sum&eacute;s to organizations. However, his friends insist that he should be ready with more formats because, depending on the companies he applies to, he might want to produce his r&eacute;sum&eacute; in as many as six formats including &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>audio</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>graphic animation</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>brochure</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>PDF file</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525648  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 104</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_104-->Do not include or enclose a photo in r&eacute;sum&eacute;s, unless it is a(n) &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>PDF</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[printed scannable r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[social media r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>electronic plain-text file</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525649  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 105</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_105-->Jon is preparing a video r&eacute;sum&eacute; along with six different r&eacute;sum&eacute; formats so that he can stand out in the crowd of applicants. Video r&eacute;sum&eacute;s can be a compelling supplement, but &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>it is suitable only for creative jobs.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[most employers today prefer online r&eacute;sum&eacute;s.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>it should be created by hiring professional video producers.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>some recruiters may use visual cues of ethnicity, age, or gender in the early selection process.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525650  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 106</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_106-->A plain-text version of your r&eacute;sum&eacute; is simply a computer file&#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>that contains only font formatting, bullet symbols, and colours</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>that cannot be emailed</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>sometimes known as a text file</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>that cannot be pasted into the application forms on an employer's website</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525651  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 107</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_107-->Some employers and websites want your r&eacute;sum&eacute; in Microsoft Word format. However, make sure&#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>your computer is virus-free first</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>that the document is scannable</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[that you include a picture of yourself in the r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>you use electronic signatures</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525652  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 108</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_108-->A variety of terms are used to describe online r&eacute;sum&eacute;s, including&#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[web forum r&eacute;sum&eacute;s]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>personal multimedia pages</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[social networking r&eacute;sum&eacute;s]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>e-portfolios</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525653  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 109</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_109-->What kind of r&eacute;sum&eacute; attempts to convey a person's career development and skill set graphically through a visual metaphor such as a timeline or subway map or as a poster with array of individual elements?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Portfolio</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Social media</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Infographic</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Video</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525555  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_011-->The more you network, the more ________ you become in your network.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>involved</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>expendable</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>valuable</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>marketable</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525654  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 110</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_110-->After a lot of thought, Jeremy has planned, researched, and finally prepared his r&eacute;sum&eacute;. When distributing his r&eacute;sum&eacute;, he should take equal care and &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>pay close attention to the specific instructions provided by every employer</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>make sure he uses a Priority Mail flat-rate envelope</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[mail the r&eacute;sum&eacute; with the reference list]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>create an e-portfolio and direct the employers towards his website</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525655  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 111</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_111-->Post your r&eacute;sum&eacute; on a job website only when it gives you the option of &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>displaying your photo</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>not having to register as a client</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[accessing their sample r&eacute;sum&eacute; formats]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>restricting the display of your contact information</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525656  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 112</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_112-->When printing a r&eacute;sum&eacute;, what should you do?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Use heavier, higher-quality paper.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Use a pastel colour so your r&eacute;sum&eacute; stands out.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Use a border to increase reader-friendly design.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Use a background to create interest.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525657  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 113</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_113-->When sending a r&eacute;sum&eacute; electronically, what should you include in the email's subject line?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Your name</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>The job ad number</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The date</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The source of the job ad</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525658  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 114</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_114-->Which r&eacute;sum&eacute; distribution method is preferred by employers?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Regular mail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Email</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Dropped off in person</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>It depends</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525659  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 115</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_115-->Which delivery method do many employers prefer nowadays?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Email</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Online to a job website</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Regular mail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Online to the employer's website</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525556  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_012-->Ruth is filling out an online application form for a job as an accountant at a large organization. She needs to make sure that she includes all the required details because &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>the organization might notice her lack of interest</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>the missing information can create a gap in the chronology</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>a mistake such as missing simple details can remove her from contention for the job</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>she's required to by law</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525677  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 133</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_133-->Which website is most important to incorporate into your job search?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>LinkedIn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Monster</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A personal website</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Instagram</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525678  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 134</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_134-->What does an effective online profile include?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Your photo</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A headline</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A summary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All of the above</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525679  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 135</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_135-->Which of the following is true regarding a LinkedIn profile photo?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>It should be a formal portrait.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Hire a professional photographer.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Pose with a serious facial expression.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Stand against a visually "quiet" background that won't distract viewers.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525680  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 136</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_136-->Which of the following should you do in your online profile photo?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Smile</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Stand outside and wear sunglasses</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Strike a casual pose</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Dress casually to demonstrate a relaxed personality</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525681  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 137</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_137-->Which of the following is FALSE regarding gamification in business communication?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>There is no place for it.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Companies can use it to enhance communication with employees and customers.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>The goal of using it is to increase user engagement.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It is a key strategy for companies trying to improve customer loyalty.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525546  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_002-->Fresh out of college, Maria is curious to discover the secret to finding the right job and career. Securing the right career opportunity is largely a process of &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>focused search</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>clarity in requirements</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>identifying employers' needs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>persuasive communication</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525567  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_023-->Learn as much as you can about the individuals who may be reading your r&eacute;sum&eacute;. One media format that can help you learn valuable details about individual managers at your target employers is &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>news articles</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>company websites</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>blogs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>LinkedIn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525568  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_024-->Which of these is a fallacy regarding r&eacute;sum&eacute;s?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[All a r&eacute;sum&eacute; can do is get you in the door.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[In most cases, your r&eacute;sum&eacute; needs to make a positive impression within 30 or 45 seconds.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The purpose of a r&eacute;sum&eacute; is to list all your skills and abilities.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[If the r&eacute;sum&eacute; doesn't contain the right keywords, a human being may never see it.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525569  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_025-->In a chronological r&eacute;sum&eacute;, develop your work experience section by listing your jobs according to the &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>job titles held</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>chronological order</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>alphabetical order of organizations</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>reverse chronological order</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525570  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_026-->May has served in the army as a general officer, but now she is applying for jobs in the private corporate sector. When she lists her experience in her r&eacute;sum&eacute;, she needs to make sure that she &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>doesn't mention her army background</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mentions only the ranks she held and not the responsibilities</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>does not disclose her rank</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>elaborates on the general responsibilities of the positions she held</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525571  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_027-->Nina has been on a long break since her previous job and has been taking advantage of the time off to travel. Now she is applying for the position of an analyst at a leading organization that intends to hire people who can work well in a diverse environment. Being well-travelled, Nina has a healthy respect for different cultures. Assuming that Nina possesses the necessary qualifications, which of these actions will best help Nina secure an interview at the organization?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Nina emphasizes her relevant skills and qualifications but de-emphasizes the break because this information will not serve the employer's needs.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Nina prepares a single sheet r&eacute;sum&eacute;, highlighting the skills and capabilities she acquired in her previous employment that might be relevant to this job and does not mention her break.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nina presents her work history in reverse chronological order, highlights relevant skills and mentions how the break has enriched her cultural understanding.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Nina prepares a chronological r&eacute;sum&eacute; and attaches a copy of her blog, in which she has written her thoughts about how meeting people from various countries has enriched her life.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525572  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_028-->A(n) ________ r&eacute;sum&eacute; emphasizes your skills and capabilities, identifying employers and academic experience in subordinate sections.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>functional</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>chronological</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>online</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>plain-text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525573  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_029-->Which of the following is true regarding a functional r&eacute;sum&eacute;?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>It is the most preferred format.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>It stresses individual areas of competence.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It emphasizes an individual's job history.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It presents an individual's academic experience first.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525547  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_003-->Steve is beginning his job search this semester. He is ready with his strategy and is focused on what he needs. Before he takes the plunge, he needs to know which hot-button issues recruiters face. For this he should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>check the company website for clues about the recruiting process</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA["listen in" on their professional conversations by reading relevant blogs and publications]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>speak to potential colleagues</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>keep up with market trends</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525574  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_030-->The chief advantage of the ________ r&eacute;sum&eacute; format is that it allows you to focus attention on your capabilities when you don't have a long or steady employment history, without raising concerns that you might be hiding something about your past.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>plain-text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>online</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>combination</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>chronological</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525575  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_031-->Joe has worked as an independent contractor and has been part of many temporary assignments. In his r&eacute;sum&eacute;, he should&#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>group similar assignments under a single heading</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mention only the bigger assignments</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mention all assignments in their chronological order</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>not mention their customers without notifying them</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525576  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_032-->Two of the more common issues that employers may perceive as weaknesses are gaps in your work history and&#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>a criminal record</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>inexperience</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>under qualification</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>frequent job changes</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525577  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_033-->Chris has a criminal record and has been incarcerated for a month. What should Chris do when applying for a job?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Deny the criminal record</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Not be held liable for the action since it has no bearing on these job skills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Only apply to companies that encourage rehabilitation of criminals</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Not lie because companies will check criminal records</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525578  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_034-->A ________ can cost you interview opportunities.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[combination r&eacute;sum&eacute;, highlighting your skills]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[r&eacute;sum&eacute; based on a website sample]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[single page r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[single mistake or oversight on your r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525579  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 35</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_035-->Bethany is aware that the majority of r&eacute;sum&eacute;s are now subjected to keyword searches in an applicant tracking system, in which a recruiter searches for r&eacute;sum&eacute;s most likely to match the requirements of a particular job. To help Bethany use keywords for her benefit, which part of her r&eacute;sum&eacute; should include relevant keywords?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Contact information</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Personal data</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Introductory statement</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Hobbies</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525548  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_004-->An essential task in your job search is presenting your skills and accomplishments in a way that is relevant to the employer's business challenges. An important step in showing employers that you will be a good fit is to &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[customize your r&eacute;sum&eacute; to each job opening]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>research the organizations</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>be aware of company's sales regions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>master persuasive communication</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525549  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_005-->Jasmine is interested in working as a developer for Next Level Gaming Solutions. However, she is not sure of how she should apply for this dream job. She should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>look out for this job advertisement in jobsites</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>get in touch with their HR department and sell herself</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>scan periodicals for job openings</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>monitor the company's website for openings</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525601  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 57</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_057-->The importance of adapting your r&eacute;sum&eacute; to your target readers' needs and interests cannot be overstated. Adapting to your readers can mean &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[customizing your r&eacute;sum&eacute;, sometimes for each job opening]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>putting their needs ahead of your needs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>maintaining consistency and attention to detail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>generalizing your experience to suit a variety of needs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525602  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 58</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_058-->Sam has been told that to create an effective r&eacute;sum&eacute; he should keep its style direct and simple. So Sam should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>focus on his work history</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>use long sentences</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>focus on what he wants the reader to know</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>use crisp phrases</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525603  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 59</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_059-->Keywords that catch a computer's attention are usually ________ that describe the specific skills, attributes, and experiences an employer is looking for in a candidate.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>adjectives</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>action phrases</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>action verbs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>nouns</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525550  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_006-->________ is the process of making informal connections with mutually beneficial business contacts.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Networking</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Soliciting</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Temping</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Resourcing</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525604  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 60</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_060-->________ can include the business and technical terms associated with a specific profession, industry-specific jargon, names or types of products or systems used in a profession, job titles, and college degrees.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Scannable words</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Professional language</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Business language</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Keywords</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525605  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 61</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_061-->Which of these email addresses would be appropriate in a r&eacute;sum&eacute;?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>deathhammer@email.com</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>hardworking.harry@craftsolutions.com</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cindy.cooper@highlandsystems.com</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>nancy.smith@email.com</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525606  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 62</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_062-->Of all the parts of a r&eacute;sum&eacute;, the ________ probably generates the most disagreement.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>font size</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>order of the contact information</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>brief introductory statement that follows your name and contact information</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>nonprofessional email address</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525607  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 63</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_063-->Which of these candidates should include a career summary in his or her r&eacute;sum&eacute;?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Derrick has just graduated from college and plans to continue a career in nonprofit fundraising, a job for which he has internship experience since his freshman year.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>In his short stint at the organization, Nathan was promoted three times.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>As an experienced manager, Ling had grown with the company, managing double-digit annual growth in revenue and employees in her division.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>After all these years as a junior assistant, Tina is finally relieved that she is a junior manager now.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525608  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 64</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_064-->For which of these applicants is education their strongest selling point?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>A college graduate who has no experience</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>An upper-level manager who is to be promoted soon</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A recently promoted lower level manager</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>An office assistant looking to upgrade his qualifications</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525609  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 65</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_065-->In the education section mention ________ only if the associated achievements are pertinent to your career goals.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>educational objectives</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>career objectives</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>scholarships</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>high school or military training</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525610  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 66</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_066-->If you do not name your current employer in the work experience section of your r&eacute;sum&eacute; and only mention the industry, you &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>are creating doubt in the mind of your potential employer, who is entitled to disqualify you based on this omission</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>may not be noticed by recruiters</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>may lose out on the keyword search</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[are following expected r&eacute;sum&eacute; protocol and are allowed to keep your employer confidential]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525611  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 67</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_067-->Devote the most space to the jobs that &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>are relevant to your education</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>were the most challenging</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>you held the longest</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>are related to your target position</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525612  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 68</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_068-->Which of the following identifies either a specific job you want to land or a general career track you would like to pursue?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>A career objective</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A qualifications summary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A career summary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>An introductory statement</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525613  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 69</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_069-->Linda has spent a number of years in the professional work force. However, when she started she held a number of part-time, temporary, or entry-level jobs that don't relate to her career objective now. In the work experience section of her r&eacute;sum&eacute;, she should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>include all those details to give the right picture of her career path</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>never mention them</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>include them only in the career summary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[exclude the irrelevant details that might clutter her r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525551  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_007-->When Callum talks to anyone, whether it is at his company functions, at his sister's wedding, at his college reunions, or on social sites, he is &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>using persuasive communication</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>expressing himself</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>building speaking skills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>networking</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525614  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 70</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_070-->Include activities and achievements outside of a work context only if they make you a more attractive job candidate. Mentioning fluency in multiple languages &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>could count against you for domestic positions</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[should not be mentioned on r&eacute;sum&eacute;s because it could lead to bias]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>should be backed up by relevant evidence</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>could weigh heavily in your favour with employers who do business internationally</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525615  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 71</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_071-->Ruth is actively involved in her church. They go to great lengths to organize events for charity. In their community, Ruth is known for their leadership and organization skills. If they want to mention these activities in their r&eacute;sum&eacute; as part of an application at a local bank, they should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>not consider mentioning these because doing so might raise concerns for people with differing beliefs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mention these activities because employers find these attributes valuable and religious tolerance should be assumed</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>highlight their skills and mention that they did these for a not-for-profit organization</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>highlight their skills without mentioning any group they worked with</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525616  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 72</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_072-->Experts debate the value of including this particular piece of information. What is it?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Names of references</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Name of your previous employer</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Your gender</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Your GPA</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525617  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 73</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_073-->Helen is applying for a job as a senior accountant. With regard to their references, they should &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[prepare a list of references and include them in their r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[not prepare a list of references because in the United States she need not mention their names in her r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>prepare a list of references only if she is applying for a position outside the United States</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[prepare a list of references but not necessarily include them in her r&eacute;sum&eacute;]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525552  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_008-->Kirndeep needs to immediately hire two copy editors for her organization. As with most companies that try to avoid the time and expense of sifting through thousands of applications, she decides to first &#8230;]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>use a hiring agency</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>place an advertisement in the local newspaper, before going for the national newspapers</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ask for recommendations from her employees</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>establish a presence at a local career fair</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525553  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_009-->Brad, a student in his last semester, will start hunting for jobs soon. For that, he should start thinking like a networker now and start with ________. They could turn out to be some of his most important business contacts.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>his classmates</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>contacts at hiring agencies</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>HR managers of organizations</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>LinkedIn users</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525660  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 116</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_116-->Most of your application efforts will take place online, so don't bother with a traditional paper r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525661  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 117</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_117-->Depending on the companies you apply to, you might want to produce your r&eacute;sum&eacute; in as many as six formats.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525662  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 118</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_118-->A scannable version of your r&eacute;sum&eacute; is simply a computer file without any of the formatting that you typically apply using a word processor.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525663  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 119</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_119-->A variety of terms are used to describe online r&eacute;sum&eacute; types, including personal webpage, e-portfolio, social media r&eacute;sum&eacute;, and multimedia r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525664  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 120</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_120-->If you applied online, you are not expected to bring a print copy of your r&eacute;sum&eacute; to the interview.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525665  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 121</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_121-->One or two minor errors in your r&eacute;sum&eacute; will not affect your chances of getting an interview. Employers don't expect a r&eacute;sum&eacute; to be completely perfect.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525666  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 122</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_122-->During the application process, don't expect or ask employers to retrieve a r&eacute;sum&eacute; from your website.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525557  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_013-->Getting a job that is right for you takes little more than sending out r&eacute;sum&eacute;s and application letters.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525682  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 138</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_138--><i>Gamification </i>is the addition of game-playing aspects to an activity or a process with the goal of increasing user engagement.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525683  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 139</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_139-->Using games is not as effective as traditional business communications in creating customer engagement and loyalty.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525558  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_014-->Even if you haven't graduated, it's not too early to start some of the essential research and planning tasks of the job search.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525559  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_015-->Stay on top of business news because you never know which avenue might provide a job opportunity.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525560  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_016-->When it comes to finding the right job opportunities, the easiest ways are not always the most productive.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525561  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_017-->Networking is a mutually beneficial activity, so look for opportunities that benefit both parties.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525562  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_018-->Many employers check Facebook to find out about the character of applicants.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525580  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 36</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_036-->Your r&eacute;sum&eacute; will probably get tossed aside if it doesn't speak to audience needs, even if it doesn't contain mistakes.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525581  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 37</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_037-->R&eacute;sum&eacute;s and curriculum vitae (CVs) are essentially the same, although r&eacute;sum&eacute;s can be much more detailed.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525582  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 38</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_038-->The chronological r&eacute;sum&eacute; is the most common approach and generally favored by newer job seekers.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525583  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 39</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_039-->A functional r&eacute;sum&eacute;, sometimes called a combination r&eacute;sum&eacute;, emphasizes your skills and capabilities, identifying employers and academic experience in subordinate sections.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525584  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 40</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_040-->The purpose of a r&eacute;sum&eacute; is not to get you a job but rather to get you an interview.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525585  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 41</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_041-->You should cover up a criminal record or time spent incarcerated on your r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525586  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 42</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_042-->Military experience can help you develop many skills that are valuable in business, so include standard military terminology to build credibility in your r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525587  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 43</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_043-->Be sure to provide complete and accurate educational information; mistakes in this section of the r&eacute;sum&eacute; are surprisingly common.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525588  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 44</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_044-->A career summary offers a brief recap of your career and is particularly useful for upper-level managers.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525589  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 45</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_045-->Develop your work experience section by listing your jobs in reverse chronological order, beginning with the most recent position.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525590  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 46</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_046-->Your r&eacute;sum&eacute; needs to disclose if you were fired from a previous position.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525618  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 74</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_074-->When applying to foreign companies, your r&eacute;sum&eacute; should include personal data such as age, marital status, and Social Insurance Number.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525619  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 75</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_075-->If you're uncomfortable writing your own r&eacute;sum&eacute;, you could trade with a classmate and write each other's r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525620  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 76</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_076-->To combat r&eacute;sum&eacute; fraud, employers now use a variety of screening techniques to expose falsified information.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525621  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 77</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_077-->Chances are that false information on a r&eacute;sum&eacute; will be exposed somewhere during the application and interview process.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525622  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 78</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_078-->You can use one standard r&eacute;sum&eacute; for all positions within the same industry.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525623  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 79</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_079-->In your r&eacute;sum&eacute; you don't need to use the same terminology as the employer uses to describe job responsibilities and professional accomplishments.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525624  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 80</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_080-->It is acceptable to use the personal pronoun "I" in a r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525625  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 81</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_081-->You can use the formula of accomplishment statements formed by a verb + a task + a result to write entries in the Work Experience section of a r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525626  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 82</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_082-->Keywords that catch a computer's attention are usually nouns that describe the specific skills, attributes, and experiences an employer is looking for in a candidate.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525627  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 83</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_083-->You can choose to open your r&eacute;sum&eacute; with a career objective or a qualifications summary.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525628  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 84</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_084-->Mistakes in the Name and Contact Information section of a r&eacute;sum&eacute; are common.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525629  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 85</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_085-->If you have postsecondary education, you list this first before experience and other sections.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525630  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 86</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_086-->In a r&eacute;sum&eacute;, you should list nonpaid activities because they can provide evidence of work-related skills.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 525631  -->
+  <question type="truefalse">
+    <name>
+      <text>Question 87</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<!--RsQ_087-->If you've already been hired, you cannot be fired for falsifying information in your r&eacute;sum&eacute;.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
