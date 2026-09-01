@@ -4,7 +4,10 @@ AssessBridge Backend — FastAPI application.
 Endpoints
 ---------
 GET  /api/health                  → {"status": "ok"}
-POST /api/convert                 → ZIP of converted XML files
+POST /api/auth/register           → User registration
+POST /api/auth/login              → User login
+GET  /api/auth/me                 → Get current user
+POST /api/convert                 → ZIP of converted XML files (requires auth)
 
 POST /api/convert accepts:
   - files[]   : one or more DOCX files (multipart/form-data)
@@ -17,25 +20,73 @@ import io
 import zipfile
 from datetime import datetime
 
-from fastapi import FastAPI, File, Form, HTTPException, UploadFile
+from fastapi import FastAPI, File, Form, HTTPException, UploadFile, Depends, Header, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
+from sqlalchemy.orm import Session
 
 from parser.docx_parser import parse_chapter
 from exporters.blackboard import chapters_to_bb_zip
 from exporters.moodle_xml import chapter_to_moodle_xml
 from exporters.qti import chapter_to_qti_zip
+from database import get_db, engine
+from models import Base, User
+from auth_routes import router as auth_router
+from security import decode_token
+from schemas import TokenData
 
 app = FastAPI(title="AssessBridge", version="1.0.0")
+
+# Create database tables
+Base.metadata.create_all(bind=engine)
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+# Include authentication routes
+app.include_router(auth_router)
+
 SUPPORTED_FORMATS = {"moodle_xml", "qti", "blackboard"}
+
+
+async def get_current_user(
+    authorization: str = Header(None), db: Session = Depends(get_db)
+) -> User:
+    if not authorization:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Not authenticated",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+
+    scheme, _, token = authorization.partition(" ")
+    if scheme.lower() != "bearer" or not token:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Invalid authentication credentials",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+
+    token_data = decode_token(token)
+    if token_data is None:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Invalid or expired token",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+
+    user = db.query(User).filter(User.email == token_data.email).first()
+    if user is None:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="User not found",
+        )
+    return user
 
 
 @app.get("/api/health")
@@ -47,6 +98,7 @@ def health():
 async def convert(
     files: list[UploadFile] = File(...),
     format: str = Form(...),
+    current_user: User = Depends(get_current_user),
 ):
     if format not in SUPPORTED_FORMATS:
         raise HTTPException(
