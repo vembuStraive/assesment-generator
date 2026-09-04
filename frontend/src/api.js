@@ -36,6 +36,9 @@ export const convertAPI = {
     formData.append('format', format)
     return api.post('/convert', formData, {
       headers: { 'Content-Type': 'multipart/form-data' },
+      // ZIP responses must stay binary. Axios otherwise tries to decode the
+      // response as text, corrupting non-UTF-8 ZIP bytes on download.
+      responseType: 'blob',
     })
   },
 }

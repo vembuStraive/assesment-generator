@@ -36,7 +36,9 @@ _RE_CHAPTER = re.compile(r"^Chapter\s+(\d+)\s{2,}(.+)", re.IGNORECASE)
 _RE_SECTION = re.compile(r"^\d+\.\d+\s{2,}")
 _RE_QUESTION = re.compile(r"^(\d+)\)\s+(.+)")
 _RE_CHOICE = re.compile(r"^([A-D])\)\s+(.+)")
-_RE_ANSWER = re.compile(r"^Answer:\s+(.+)", re.IGNORECASE)
+# The answer may be empty on the first line, with the actual essay answer
+# beginning in one or more continuation paragraphs below it.
+_RE_ANSWER = re.compile(r"^Answer:\s*(.*)", re.IGNORECASE)
 _RE_DIFF = re.compile(r"^Diff:\s*\d+\s+Type:\s*(\w+)", re.IGNORECASE)
 _RE_OBJECTIVE = re.compile(r"^Objective:\s+", re.IGNORECASE)
 
@@ -53,6 +55,11 @@ def parse_chapter(file_bytes: bytes) -> Chapter:
     for para in doc.paragraphs:
         text = para.text.strip()
         if not text:
+            # Preserve blank paragraphs inside multi-paragraph essay answers.
+            # The following non-empty continuation adds another <br>, yielding
+            # the <br><br> spacing Blackboard renders as a paragraph gap.
+            if in_answer and current_q is not None and current_q.model_answer:
+                current_q.model_answer += "<br>"
             in_answer = False if _answer_ended(current_q, in_answer) else in_answer
             continue
 
