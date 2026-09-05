@@ -46,6 +46,12 @@ _RE_OBJECTIVE = re.compile(r"^Objective:\s+", re.IGNORECASE)
 def parse_chapter(file_bytes: bytes) -> Chapter:
     doc = Document(io.BytesIO(file_bytes))
 
+    # Pearson-style test banks use [Q1] markers and unlabeled answer
+    # paragraphs. Detect that format before falling back to the Respondus
+    # parser below.
+    if any(re.fullmatch(r"\[Q\d+\]", para.text.strip(), re.IGNORECASE) for para in doc.paragraphs):
+        return _parse_bracketed_test_bank(doc)
+
     chapter = Chapter(title="Untitled Chapter", number=0)
     current_q: Question | None = None
     in_answer = False
@@ -141,6 +147,66 @@ def parse_chapter(file_bytes: bytes) -> Chapter:
             continue
 
         # Anything else: skip (book title line, stray text, etc.)
+
+    return chapter
+
+
+def _parse_bracketed_test_bank(doc: Document) -> Chapter:
+    """Parse test banks with [Qn] markers, four plain choices, and markers."""
+    paragraphs = [para for para in doc.paragraphs if para.text.strip()]
+    question_marker = re.compile(r"^\[Q\d+\]$", re.IGNORECASE)
+    chapter_title = "Untitled Chapter"
+    chapter_number = 0
+
+    for para in paragraphs:
+        match = re.match(r"^Chapter\s+(\d+)\s*:\s*(.+)$", para.text.strip(), re.IGNORECASE)
+        if match:
+            chapter_number = int(match.group(1))
+            chapter_title = f"Chapter {chapter_number:02d} {re.sub(r'\s+', ' ', match.group(2).strip())}"
+            break
+
+    chapter = Chapter(title=chapter_title, number=chapter_number)
+    index = 0
+    while index < len(paragraphs):
+        if not question_marker.fullmatch(paragraphs[index].text.strip()):
+            index += 1
+            continue
+
+        index += 1
+        if index >= len(paragraphs):
+            break
+        stem_para = paragraphs[index]
+        index += 1
+        # Application/model-response sections also use [Qn] markers, but do
+        # not contain four plain answer choices. Do not turn those sections
+        # into malformed multiple-choice items.
+        if any(paragraphs[index + offset].text.strip().startswith("[") for offset in range(min(4, len(paragraphs) - index))):
+            continue
+        choices = []
+        for letter in "ABCD":
+            if index >= len(paragraphs) or question_marker.fullmatch(paragraphs[index].text.strip()):
+                break
+            choice_para = paragraphs[index]
+            index += 1
+            is_correct = bool(re.search(r"\s*\(correct\)\s*$", choice_para.text, re.IGNORECASE))
+            # Strip the marker after converting to HTML as DOCX formatting can
+            # wrap it in tags (for example, <b>(correct)</b>).
+            choice_html = re.sub(r"\s*\(correct\)\s*", " ", _para_to_html(choice_para), flags=re.IGNORECASE).strip()
+            choice_html = re.sub(r"<(b|i|u)>\s*</\1>", "", choice_html, flags=re.IGNORECASE)
+            choices.append(Choice(letter=letter, text=choice_html))
+
+        if len(choices) != 4:
+            continue
+
+        correct = next((choice.letter for choice, para in zip(choices, paragraphs[index - 4:index])
+                        if re.search(r"\s*\(correct\)\s*$", para.text, re.IGNORECASE)), "")
+        chapter.questions.append(Question(
+            number=len(chapter.questions) + 1,
+            stem=_para_to_html(stem_para).strip(),
+            q_type="multichoice",
+            choices=choices,
+            correct_letter=correct,
+        ))
 
     return chapter
 

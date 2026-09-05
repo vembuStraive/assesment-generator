@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
 import { useAuth } from '../AuthContext'
+import straiveLogo from '../assets/straive-logo.webp'
 import './Auth.css'
 
 export function Register() {
@@ -48,15 +49,17 @@ export function Register() {
 
   return (
     <div className="auth-container">
-      <div className="auth-card">
-        <div className="auth-header">
-          <div className="logo-mark">AB</div>
-          <h1>AssessBridge</h1>
-          <p>Create your account</p>
-        </div>
+      <div className="auth-card register-card">
+        <section className="register-brand-panel">
+          <img className="straive-logo auth-logo" src={straiveLogo} alt="Straive" />
+          <div className="register-brand-copy"><h1>AssessBridge</h1><p>Your assessment workspace</p></div>
+          <span className="register-brand-note">Assessment workspace</span>
+        </section>
 
-        <form onSubmit={handleSubmit} className="auth-form">
-          {error && <div className="error-message">{error}</div>}
+        <section className="register-form-panel">
+          <form onSubmit={handleSubmit} className="auth-form">
+            <div className="register-heading"><h2>Create your account</h2><p>Set up your AssessBridge workspace.</p></div>
+            {error && <div className="error-message">{error}</div>}
 
           <div className="form-group">
             <label htmlFor="email">Email</label>
@@ -110,14 +113,13 @@ export function Register() {
             />
           </div>
 
-          <button type="submit" className="auth-btn" disabled={loading}>
-            {loading ? 'Creating account...' : 'Create account'}
-          </button>
-        </form>
+            <button type="submit" className="auth-btn" disabled={loading}>
+              {loading ? 'Creating account...' : 'Create account'}
+            </button>
+          </form>
 
-        <p className="auth-link">
-          Already have an account? <Link to="/login">Sign in here</Link>
-        </p>
+          <p className="auth-link">Already have an account? <Link to="/login">Sign in here</Link></p>
+        </section>
       </div>
     </div>
   )

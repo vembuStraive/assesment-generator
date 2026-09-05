@@ -1,3 +1,5 @@
+/* Auth hook is intentionally colocated with its provider for this app. */
+/* eslint-disable react-refresh/only-export-components */
 import { createContext, useContext, useState, useEffect } from 'react'
 import { authAPI } from './api'
 
